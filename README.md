@@ -1,4 +1,4 @@
-# ATLUS
+# ATLUS  (Adversially Robust LLM Tuning using Subset Selection)
 
 This is a project done as a part of the course CS769 : Optimization in Machine Learning. We improvised upon the ICLR Paper that discuss an efficient way to train LLMs with lesser data (as compared to DPO), SPIN (Self Play Fine Tuning). Our contributions are the following : 
 
